@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  image_picker: ^0.8.7+3 # Add this for image picking
+  dio: ^5.0.0            # Ensure Dio is also listed
+  #flutter_web_plugins: ^0.6.0  # For web platform handling (if needed)
 
 dev_dependencies:
   flutter_test:
