@@ -9,14 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^0.8.7+3 # Add this for image picking
+  image_picker: ^1.1.2 # Add this for image picking
   dio: ^5.0.0            # Ensure Dio is also listed
   #flutter_web_plugins: ^0.6.0  # For web platform handling (if needed)
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.2
+  flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true

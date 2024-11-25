@@ -5,7 +5,7 @@ final ThemeData appTheme = ThemeData(
   scaffoldBackgroundColor: AppColors.background,
   primaryColor: AppColors.primary,
   textTheme: TextTheme(
-    bodyText1: TextStyle(color: AppColors.primary),
-    bodyText2: TextStyle(color: AppColors.primary),
+    bodyLarge: TextStyle(color: AppColors.primary),
+    // bodyText2: TextStyle(color: AppColors.primary),
   ),
 );

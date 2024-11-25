@@ -1,4 +1,6 @@
 // This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=C:\Users\sandipan\AppData\Local\flutter
+FLUTTER_APPLICATION_PATH=C:\Users\sandipan\vs_code_project\medhistory_fe
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build
